@@ -3,7 +3,7 @@
   "description": "Dependency injection framework",
   "homepage": "https://github.com/gigwalk-corp/injector.js",
   "bugs": "https://github.com/gigwalk-corp/injector.js/issues",
-  "version": "0.4.3",
+  "version": "0.5.0",
   "license": "MIT",
   "author": {
     "name": "Bigger Boat",
